@@ -1,0 +1,34 @@
+
+*{
+	margin: 0px; padding: 0px;
+}
+
+img {}
+
+html { }
+
+h1 {font-size: 12px}
+
+#student_name {
+	border: 2px solid red;
+}
+
+#main_banner {
+	width:300px;
+	opacity:0.4;
+}
+
+.very_important {
+
+	border: 1px dashed green;
+}
+
+img.very_important {
+	margin:20px
+
+}
+
+.shadow{
+	border-right: 2px solid #333333;
+	border-bottom: 2px solid #333333;
+}
